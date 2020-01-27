@@ -13,17 +13,17 @@ Comments in Python are marked by a # sign (for single-line comments) or three ma
 
 Edit README.md to answer the following questions:
 
-- Open main01.py. Before running it, what do you expect this program to do?
-  - Now right click on the main1.py window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened.
-  - What do you think the program did with what you typed in answer to the question?
+- Open main01.py. Before running it, what do you expect this program to do? - answer the questions 
+  - Now right click on the main1.py window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. -  it turned orange 
+  - What do you think the program did with what you typed in answer to the question? - nothing
 - Open main02.py. Before running it, describe how this is different than main01.py.
-  - What do you think the color = input() will do?
-  - Run the program in the terminal and answer the question. Did the program do what you expected?
+  - What do you think the color = input() will do?  - nothing 
+  - Run the program in the terminal and answer the question. Did the program do what you expected? - yes
 - Open main03.py. Before running it, describe how this is different than main02.py.
-  - What is happening on lines 9–12?
-  - Why are lines 10 and 12 indented?
-  - Run the program and answer the question. What happens if you don’t capitalize Red?
-  - What does this tell you about "color"?
+  - What is happening on lines 9–12? -  there was a error
+  - Why are lines 10 and 12 indented?  - to get a correct answer
+  - Run the program and answer the question. What happens if you don’t capitalize Red? - 
+  - What does this tell you about "color"?  
 - Open main04.py. Before running it, describe how this is different than main03.py.
   - What problem is this trying to solve?
   - Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
